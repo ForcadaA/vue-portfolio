@@ -1,0 +1,136 @@
+{
+    "profile":[
+        {
+            "name":"objectives",
+            "slug":"objectifs",
+            "id":1,
+            "title":"Objectifs",
+            "image": {
+                "src":"/images/sunrise.jpg", 
+                "alt":"cloudy sunrise from mountain view over lake",
+                "author":{
+                    "name":"Mrexentric",
+                    "link":"https://pixabay.com/fr/users/mrexentric-3816210/"
+                },
+                "provider":{
+                    "name":"Pixabay",
+                    "link":"https://pixabay.com/fr/photos/suisse-lever-du-soleil-soleil-4290226/"
+                }
+            },
+            "description":"Je souhaite approfondir mes connaissances en science des données et en programmation afin de participer efficacement dans des projets d'avenir. Je souhaite également m'investir dans des événements culturels, car rire c'est bon pour la santé.",
+            "card":["Projets d'Avenir", "Événements Culturels"]
+        },
+        {
+            "name":"parcours",
+            "slug":"parcours",
+            "id":2,
+            "title":"Parcours",
+            "image":{
+                "src":"/images/stairs.jpg", 
+                "alt":"lower view on stairs with a cloudless sky at the top of the stairs",
+                "author":{
+                    "link":"https://pixabay.com/fr/users/gerardopatinho-17187968/",
+                    "name":"Gerardo Patinho"
+                },
+                "provider":{
+                    "link":"https://pixabay.com/fr/photos/%c3%a9chelle-tourisme-l-architecture-6805808/",
+                    "name":"Pixabay"
+                }
+            },
+            "description":"Mon parcours témoigne de mon intérêt pour les sciences de base. Malgré mon intérêt et ma persévérence je termine mon parcours académique avec un échec. Toutefois je m'en réjoui car c'est une opportunité pour moi de grandir. Après cet échec j'ai appris en autodidacte à développer des sites webs et des intelligences artificielles. J'ai ainsi approfondi mes connaissances en informatique tout en préservant au mieux mes acquis en sciences de base.",
+            "card":["Master en Physique à l'École Polytechnique Fédérale de Lausanne VD, non acquis",
+                "Bachelor en Physique à l'École Polytechnique Fédérale de Lausanne VD", 
+                "Certificat de Guitare et de Solfège au Conservatoire de Lausanne VD",
+                "Maturité Fédérale en Option Spécifique Mathématique et Physique au Gymnase de Chamblandes à Pully VD",
+                "Scolarité Obligatoire à Genève CH à Naussau BHS et à Lausanne CH"]
+        },
+        {
+            "name":"skills", 
+            "slug":"competences",
+            "id":3,
+            "title":"Compétences",
+            "image":{
+                "src":"/images/typing.jpg", 
+                "alt":"close up on keyboard",
+                "author":{
+                    "link":"https://www.pexels.com/@leah-kelley-50725/",
+                    "name":"Leah Kelley"
+                },
+                "provider":{
+                    "link":"https://www.pexels.com/photo/close-up-photo-of-gray-typewriter-952594/",
+                    "name":"Pexels"
+                }
+            },
+            "description":"Grâce à mon éducation scientifique, j'ai une approche constructive aux problèmes. Je cherche l'efficacité en me confrontant aux défis avec l'ambition d'apporter une solution simple et générale. J'aime travailler en équipe, découvrir de nouvelles personnalités et partager des expériences, des connaissances et des rires.",
+            "card":["Développement Web: HTML, CSS, JavaScript et VueJS",
+                "Intelligence Artificielle: Tensorflow et Pytorch",
+                "Modélisation: Design de Plan d'Expérience, Analyse et Méthodes Statistiques",
+                "Applications Numériques: Python, C++, Matlab",
+                "Graphismes: ImageJ, Figma, Jupyter, Matlab",
+                "Recherches: Articles Scientifiques, StackOverflow, Google"]
+        },
+        {
+            "name":"projects",
+            "slug":"projets",
+            "id":4,
+            "title":"Projets",
+            "image":{
+                "src":"/images/light.jpg", 
+                "alt":"lit light bulb surrounded by unlit light bulbs",
+                "author":{
+                    "link":"https://pixabay.com/fr/users/colin00b-346653/",
+                    "name":"Colin00b"
+                },
+                "provider":{
+                    "link":"https://pixabay.com/fr/photos/l%c3%a9ger-ampoules-esp%c3%a9rer-lueur-2156209/",
+                    "name":"Pixabay"
+                }
+            },
+            "description":"J'espère mettre en place des applications web utilisant la puissance de l'IA d'aujourd'hui afin de rendre demain meilleur pour toustes. Je n'ai pas encore beaucoup de projets qui vont dans ce sens, toutefois, vous pouvez me suivre sur Github pour voir l'avancée de mes projets.",
+            "card":["IA de Reconnaissance d'Images",
+                "Une platforme de Yahtzee"]
+        },
+        {
+            "name":"interests",
+            "slug":"interets",
+            "id":5,
+            "title":"Intérêts",
+            "image":{
+                "src":"/images/vinyl.jpg", 
+                "alt":"close up on vinyl on a turn table",
+                "author":{
+                    "link":"https://www.pexels.com/@ellis/",
+                    "name":"Elviss Railijs Bitāns"
+                },
+                "provider":{
+                    "link":"https://www.pexels.com/photo/blue-vinyl-record-playing-on-turntable-1389429/",
+                    "name":"Pexels"
+                }
+            },
+            "description":"La musique latine et le jazz illuminent mes journées, et je profite autant que possible de jouer de la guitare. Aussi, j'ai eu la chance de faire partie de Rictus Impra, une super association qui organise de nombreux événements d'improvisations théâtrales.",
+            "card":["Musique: Cubaine, Indie, Jazz,...",
+                "Arts Visuels: Impressionisme",
+                "Arts Dramatiques: Improvisation"]
+        },
+        {
+            "name":"languages",
+            "slug":"langues",
+            "id":6,
+            "title":"Langues",
+            "image":{
+                "src":"/images/books.jpg", 
+                "alt":"books on shelves",
+                "author":{
+                    "link":"https://pixabay.com/fr/users/marisa_sias-526173/",
+                    "name":"Marisa Sias"
+                },
+                "provider":{
+                    "link":"https://pixabay.com/fr/photos/livres-une-biblioth%c3%a8que-lis-1617327/",
+                    "name":"Pixabay"
+                }
+            },
+            "description":"Je suis de langue maternelle française et j'ai vécu 2 années dans un pays anglophone étant petit. En pratique, il m'arrive d'avoir le juste mot en anglais avant de l'avoir en français. Ah, l'entropie... J'arrive aussi à comprendre les nouvelles américaines à la télé.",
+            "card":["Français: Langue Maternelle", "Anglais: Couramment"]
+        }
+    ]
+}
