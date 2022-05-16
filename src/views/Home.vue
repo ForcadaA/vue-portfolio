@@ -40,7 +40,7 @@
 </template>
 
 <script>
-import sourceData from '@/profile.json'
+import sourceData from '../profile.json'
 export default {
     data(){
         return {
