@@ -226,6 +226,13 @@ img {
   border: 2px solid var(--clr-primary-light);
 }
 
+.social-img-link {
+  margin: 0.5em;
+  margin-bottom:1em;
+  height: 1.6em;
+  width: 1.6em;
+}
+
 .image-caption {
   margin-top: 1em;
   text-align: center;
