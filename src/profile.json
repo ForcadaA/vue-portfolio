@@ -6,7 +6,7 @@
             "id":1,
             "title":"Objectifs",
             "image": {
-                "src":"/images/sunrise.jpg", 
+                "src":"../assets/images/sunrise.jpg", 
                 "alt":"cloudy sunrise from mountain view over lake",
                 "author":{
                     "name":"Mrexentric",
@@ -26,7 +26,7 @@
             "id":2,
             "title":"Parcours",
             "image":{
-                "src":"/images/stairs.jpg", 
+                "src":"../assets/images/stairs.jpg", 
                 "alt":"lower view on stairs with a cloudless sky at the top of the stairs",
                 "author":{
                     "link":"https://pixabay.com/fr/users/gerardopatinho-17187968/",
@@ -50,7 +50,7 @@
             "id":3,
             "title":"Compétences",
             "image":{
-                "src":"/images/typing.jpg", 
+                "src":"../assets/images/typing.jpg", 
                 "alt":"close up on keyboard",
                 "author":{
                     "link":"https://www.pexels.com/@leah-kelley-50725/",
@@ -75,7 +75,7 @@
             "id":4,
             "title":"Projets",
             "image":{
-                "src":"/images/light.jpg", 
+                "src":"../assets/images/light.jpg", 
                 "alt":"lit light bulb surrounded by unlit light bulbs",
                 "author":{
                     "link":"https://pixabay.com/fr/users/colin00b-346653/",
@@ -96,7 +96,7 @@
             "id":5,
             "title":"Intérêts",
             "image":{
-                "src":"/images/vinyl.jpg", 
+                "src":"../assets/images/vinyl.jpg", 
                 "alt":"close up on vinyl on a turn table",
                 "author":{
                     "link":"https://www.pexels.com/@ellis/",
@@ -118,7 +118,7 @@
             "id":6,
             "title":"Langues",
             "image":{
-                "src":"/images/books.jpg", 
+                "src":"../assets/images/books.jpg", 
                 "alt":"books on shelves",
                 "author":{
                     "link":"https://pixabay.com/fr/users/marisa_sias-526173/",
