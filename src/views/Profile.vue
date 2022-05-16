@@ -5,7 +5,7 @@
                 <h2>{{field.title}}</h2>
                 <p>{{field.description}}</p>
                 <div class="image-container">
-                    <img :src="'.'+field.image.src" :alt="field.image.alt" type="image/jpg">
+                    <img :src="field.image.src" :alt="field.image.alt" type="image/jpeg">
                     <p class="image-caption">
                         Photo by <a :href="field.image.author.link"> {{field.image.author.name}} </a>
                         on <a :href="field.image.provider.link"> {{field.image.provider.name}} </a>
