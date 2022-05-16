@@ -3,7 +3,7 @@ import Home from '../views/Home.vue'
 
 const routes = [
     {path:'/', name:"Home", component:Home},
-    {path:'/profile/:id', component:()=>import('@/views/Profile.vue')}
+    {path:'/profile/:id', component:()=>import('../views/Profile.vue')}
 ]
 
 const router = createRouter({
