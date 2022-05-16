@@ -1,7 +1,7 @@
 <template>
     <div id="nav">
         <input type="checkbox" id="nav-toggle" class="nav-toggle">
-        <label for="nav-toggle"><img class="nav-logo" src="@/assets/favicon.png" alt="logo"></label>
+        <label for="nav-toggle"><img class="nav-logo" src="../assets/favicon.png" alt="logo"></label>
         <div class="nav-link-container">
             <router-link to="/">
             Home
@@ -18,7 +18,7 @@
 </template>
 
 <script>
-import sourceData from '@/profile.json'
+import sourceData from '../profile.json'
 export default {
     data(){
         return {

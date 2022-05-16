@@ -23,8 +23,8 @@
 </template>
 
 <script>
-import sourceData from '@/profile.json'
-import TheCard from '@/components/TheCard.vue'
+import sourceData from '../profile.json'
+import TheCard from '../components/TheCard.vue'
 export default {
     components:{ TheCard },
     computed:{
