@@ -19,7 +19,7 @@
             :to="`/vue-portfolio/profile/${field.id}`"
             >
             <div class="image-link-container">
-                <img :src="field.image.src" :alt="field.image.alt" style="width:100%;">
+                <img :src="'/vue-portfolio'+field.image.src" :alt="field.image.alt" style="width:100%;" type="image/jpeg">
                 <div class="centered">{{field.title}}</div>
             </div>
             </router-link>
