@@ -5,6 +5,6 @@ const path = require('path')
 
 // https://vitejs.dev/config/
 export default defineConfig({
-  base: '/deployed-portfolio/',
+  base: '/vue-portfolio/',
   plugins: [vue()]
 })
