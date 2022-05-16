@@ -16,7 +16,7 @@
             <router-link
             v-for="field in profile"
             :key="field.id"
-            :to="`/profile/${field.id}`"
+            :to="`/vue-portfolio/profile/${field.id}`"
             >
             <div class="image-link-container">
                 <img :src="field.image.src" :alt="field.image.alt" style="width:100%;">
