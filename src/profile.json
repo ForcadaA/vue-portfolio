@@ -37,7 +37,7 @@
                     "name":"Pixabay"
                 }
             },
-            "description":"Mon parcours témoigne de mon intérêt pour les sciences de base. Malgré mon intérêt et ma persévérence je termine mon parcours académique avec un échec. Toutefois je m'en réjoui car c'est une opportunité pour moi de grandir. Après cet échec j'ai appris en autodidacte à développer des sites webs et des intelligences artificielles. J'ai ainsi approfondi mes connaissances en informatique tout en préservant au mieux mes acquis en sciences de base.",
+            "description":"Mon parcours témoigne de mon intérêt pour les sciences de base. Malgré mon intérêt et ma persévérence je termine mon parcours académique avec un échec. Toutefois je m'en réjoui car c'est une opportunité pour moi de grandir. J'ai ensuite appris en autodidacte à développer des sites webs et en parallèle amélioré mes notions en intelligences artificielles. J'ai ainsi approfondi mes connaissances en informatique tout en préservant au mieux mes acquis en sciences de base.",
             "card":["Master en Physique à l'École Polytechnique Fédérale de Lausanne VD, non acquis",
                 "Bachelor en Physique à l'École Polytechnique Fédérale de Lausanne VD", 
                 "Certificat de Guitare et de Solfège au Conservatoire de Lausanne VD",
@@ -86,7 +86,7 @@
                     "name":"Pixabay"
                 }
             },
-            "description":"J'espère mettre en place des applications web utilisant la puissance de l'IA d'aujourd'hui afin de rendre demain meilleur pour toustes. Je n'ai pas encore beaucoup de projets qui vont dans ce sens, toutefois, vous pouvez me suivre sur Github pour voir l'avancée de mes projets.",
+            "description":"J'espère mettre en place des applications web utilisant la puissance de l'IA d'aujourd'hui afin de rendre demain meilleur pour toustes. Vous pouvez me suivre sur Github pour voir l'avancée de mes projets.",
             "card":["IA de Reconnaissance d'Images",
                 "Une platforme de Yahtzee"]
         },
